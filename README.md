@@ -4,7 +4,7 @@
 This project involves modeling and diagramming the representation of an iPhone's roles: Music Player, Phone Device, and Internet Browser, based on the behavior described in the iPhone 2007 launch video.
 
 ## Video Reference
-- [iPhone 2007 Launch](video-link-here)
+- [iPhone 2007 Launch](https://www.youtube.com/watch?v=9ou608QQRq8)
   - Relevant Minutes: 00:15 to 00:55
 
 ## Diagram and Classes
@@ -30,6 +30,8 @@ We'll use a UML (Unified Modeling Language) diagram to represent the classes and
 
 ## UML Diagram
 You can create the UML diagram using your preferred UML modeling tool. Represent the classes and interfaces for the three components mentioned above with appropriate relationships.
+
+The UML diagram image is available in the "resources" folder within the "src" directory.
 
 ## Java Implementation
 Create Java classes and interfaces based on the UML diagram.
